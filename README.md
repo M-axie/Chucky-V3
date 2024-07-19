@@ -57,20 +57,15 @@
 
 
 
-## MAIN DEVELOPERS
+## MAIN DEVELOPER
 
 <div align="left">
   <a href="https://github.com/M-axie"><img src="https://telegra.ph/file/322aa3db007b523b73751.jpg" width="300" height="200" alt="Sid"></a>
   
 1.  | [MAXIE](https://github.com/M-axie) |
-    | Maintainer, Updates , Owner |
+    | Maintainer, Updates , Owner, Developer |
 </div>
 
-<div align="left">
-  <a href="https://github.com/Ethix-Xsid"><img src="https://telegra.ph/file/fbbe1744668b44637c21a.jpg" width="300" height="200" alt="Sid"></a>
-  
-  | [SIDHARTH](https://github.com/Ethix-Xsid) |
-  | Developer, Bug Fixer, Maintainer, updates |
 
 ## Reminder
 
