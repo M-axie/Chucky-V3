@@ -33,7 +33,7 @@
 
 ### 1. FORK THIS REPO (REMEMBER TO STAR)
 
-<a href='https://github.com/M-axie/Chucky V3/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Clixk to fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/M-axie/Chucky V3/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click to fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID VIA PAIR CODE
 
