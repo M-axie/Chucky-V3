@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/M-axie"><img title="Author" src="https://img.shields.io/badge/M-axie-black?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https://github.com/M-axie"><img title="Author" src="https://img.shields.io/badge/Maxie-black?style=for-the-badge&logo=WhatsApp"></a>
 </p>
 
 <p align="center">Here it is. Chucky V3 is a normal whatsapp bot with unique features. Still adding more commands to it</p>
@@ -20,12 +20,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/M-axie/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ethix-Xsid?color=red&style=flat-square"></a>
-  <a href="https://github.com/M-axie/Chucky V3/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Ethix-Xsid/Ethix-MD?color=blue&style=flat-square"></a>
-  <a href="https://github.com/M-axie/Chucky V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ethix-Xsid/Ethix-MD?color=red&style=flat-square"></a>
-  <a href="https://github.com/M-axie/Chucky V3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ethix-Xsid/Ethix-MD?label=Watchers&color=blue&style=flat-square"></a>
-  <a href="https://github.com/M-axie/Chucky V3"><img title="Open Source" src="https://img.shields.io/badge/Author-ETHIX SID X %20HASEEB-red?v=103"></a>
-  <a href="https://github.com/M-axie/Chucky V3"><img title="Size" src="https://img.shields.io/github/repo-size/Ethix-Xsid/Ethix-MD?style=flat-square&color=green"></a>
+  <a href="https://github.com/M-axie/followers"><img title="Followers" src="https://img.shields.io/github/followers/M-axie?color=red&style=flat-square"></a>
+  <a href="https://github.com/M-axie/Chucky V3/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/M-axie/Chucky V3?color=blue&style=flat-square"></a>
+  <a href="https://github.com/M-axie/Chucky V3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/M-axie/Chucky V3?color=red&style=flat-square"></a>
+  <a href="https://github.com/M-axie/Chucky V3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/M-axie/Chucky V3?label=Watchers&color=blue&style=flat-square"></a>
+  <a href="https://github.com/M-axie/Chucky V3"><img title="Open Source" src="https://img.shields.io/badge/Author-BRIDE OF CHUCKY X %20SAITAMA?v=103"></a>
+  <a href="https://github.com/M-axie/Chucky V3"><img title="Size" src="https://img.shields.io/github/repo-size/M-axie/Chucky V3?style=flat-square&color=green"></a>
   <a href="https://github.com/M-axie/Chucky V3/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
@@ -57,22 +57,20 @@
 
 
 
-## MAIN DEVELOPERS AND CONTRIBUTORS
+## MAIN DEVELOPERS
 
 <div align="left">
   <a href="https://github.com/M-axie"><img src="https://telegra.ph/file/322aa3db007b523b73751.jpg" width="300" height="200" alt="Sid"></a>
   
-  | [SIDHARTH](https://github.com/M-axie) |
-  | Owner, Developer, Bug Fixer, Maintainer, updates |
+1.  | [MAXIE](https://github.com/M-axie) |
+    | Maintainer, Updates , Owner |
 </div>
 
-## HELPERS
-
-<a href="https://github.com/chhaseeb47"><img src="https://github.com/chhaseeb47.png?size=100" width="130" height="100"></a> | [<img src="https://github.com/Rushmaster12.png?size=100" width="100" height="100">](https://github.com/Rushmaster12) 
----|---
-[CH HASEEB](https://github.com/Ajmal-Achu)  | [RUSHMASTER](https://github.com/Rushmaster12)
-Promotion | Groups Management|
-
+<div align="left">
+  <a href="https://github.com/Ethix-Xsid"><img src="https://telegra.ph/file/fbbe1744668b44637c21a.jpg" width="300" height="200" alt="Sid"></a>
+  
+  | [SIDHARTH](https://github.com/Ethix-Xsid) |
+  | Developer, Bug Fixer, Maintainer, updates |
 
 ## Reminder
 
