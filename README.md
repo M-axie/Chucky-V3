@@ -33,11 +33,11 @@
 
 ### 1. FORK THIS REPO (REMEMBER TO STAR)
 
-<a href='https://github.com/M-axie/Chucky V3/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click to fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/M-axie/Chucky-V3/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Click to fork-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID VIA PAIR CODE
 
-<a href='https://replit.com/@maximertens254/Chucky-V3' target="_blank"><img alt='Pair' src='https://img.shields.io/badge/Click here to get your session id-white?style=for-the-badge&logo=opencv&logoColor=purple'/></a>
+<a href='https://replit.com/@maximertens254/Chucky-V3' target="_blank"><img alt='Pair' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 ### 3. DEPLOY TO HEROKU
 
