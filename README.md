@@ -52,7 +52,7 @@
 
 3. ## Deploy to Koyeb ↓
 
-<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FEthix-Xsid%2FEthix-MD&branch=main&name=ethix-md&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
+<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FM-axie%2FChucky-V3&branch=main&name=chucky-V3&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
 
 
 
