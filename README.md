@@ -61,7 +61,7 @@
     <br>
 <a href='https://dashboard.render.com/register' target="_blank"><img alt='render' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
-3. Get [DATABASE_URL](https://github.com/A-d-i-t-h-y-a-n/hermit-md/wiki/DATABASE_URL) and copy it
+3. Get [DATABASE_URL](https://github.com/M-axie/Chucky-V3/wiki/DATABASE_URL) and copy it
 
 4. Get [Render api key](https://dashboard.render.com/u/settings#api-keys)
 
