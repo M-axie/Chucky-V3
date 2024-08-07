@@ -1,13 +1,13 @@
 {
-  "name": "Bride of Chucky V3",
+  "name": "Chucky-V3",
   "version": "1.0.1",
   "description": "Bride of Chucky V3. A cool and amazing whatsapp bot",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start src/index.js --deep-monitoring --attach --name Ethix-MD",
-    "stop": "pm2 stop Bride of Chucky V3",
-    "restart": "pm2 restart Bride of Chucky V3"
+    "start": "pm2 start src/index.js --deep-monitoring --attach --name Chucky-V3",
+    "stop": "pm2 stop Chucky-V3",
+    "restart": "pm2 Chucky-V3"
   },
   "keywords": ["Bride of Chucky", "whatsapp-bot", "whatsapp md bot"],
   "author": "M-axie",
