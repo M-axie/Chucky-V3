@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: hermit-md
+    name: chucky-v3
     repo: https://github.com/M-axie/Chucky-V3.git
     branch: main
     env: docker
