@@ -49,13 +49,8 @@
     <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
-   
-3. ## Deploy to Koyeb ↓(Not working for now)
 
-<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2FM-axie%2FChucky-V3&branch=main&name=chucky-V3&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=public&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_STATUS_SEEN%5D=true" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" width="300" height="100" alt="Deploy bot"/></a>
-
-4. 
-#### DEPLOY TO RENDER 
+#### 4. DEPLOY TO RENDER 
 
 1. If You don't have a account in render. Create a account.
     <br>
@@ -69,7 +64,7 @@
     <br>
 <a href='https://render.com/deploy?repo=https://github.com/M-axie/Chucky-V3' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
-#### DEPLOY TO KOYEB 
+#### 5. DEPLOY TO KOYEB 
 
 1. If You don't have a account in koyeb. Create a account.
     <br>
