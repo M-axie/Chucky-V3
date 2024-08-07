@@ -1,6 +1,6 @@
 {
   "name": "Chucky-V3",
-  "version": "1.0.1",
+  "version": "10.8.1",
   "description": "Bride of Chucky V3. A cool and amazing whatsapp bot",
   "main": "src/index.js",
   "type": "module",
