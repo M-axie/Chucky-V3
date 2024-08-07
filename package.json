@@ -14,7 +14,7 @@
       "postinstall": "npx puppeteer@latest install --y"
    },
 
-"author"M-axie",
+"author": "M-axie",
    "license": "Apache-2.0",
       "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
