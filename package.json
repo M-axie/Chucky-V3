@@ -9,8 +9,8 @@
     "stop": "pm2 stop Chucky-V3",
     "restart": "pm2 restart Chucky-V3"
   },
-  "keywords": ["ethix-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "Ethix-Xsid",
+  "keywords": ["Chucky-V3", "whatsapp-bot", "whatsapp md bot"],
+  "author": "M-axie",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
