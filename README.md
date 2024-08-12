@@ -39,7 +39,7 @@
 
 <a href='https://replit.com/@maximertens254/Chucky-V3' target="_blank"><img alt='Pair' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-### 3. DEPLOY TO HEROKU
+### 3. DEPLOY TO HEROKU (Not tested so do not use this deployment method for now)
 
 1. If you don't have an account in Heroku, create one.
     <br>
